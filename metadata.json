@@ -1,0 +1,6 @@
+
+{
+  "name": "Dental Supplies Management System",
+  "description": "An inventory and business management application for a dental supplies company. It allows managing products, inventory, suppliers, and customers with AI-powered features.",
+  "requestFramePermissions": []
+}

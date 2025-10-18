@@ -1,0 +1,17 @@
+
+{
+  "name": "الأسنانجي",
+  "short_name": "الأسنانجي",
+  "description": "نظام إدارة متكامل لمستودعات وشركات مستلزمات طب الأسنان.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#1e293b",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
