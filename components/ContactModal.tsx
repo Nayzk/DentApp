@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Modal } from './Modal';
 
@@ -21,7 +20,7 @@ export const ContactModal: React.FC<ContactModalProps> = ({ isOpen, onClose }) =
             </div>
             <div>
               <p className="font-semibold text-gray-200">البريد الإلكتروني</p>
-              <a href="mailto:support@alsanangy.com" className="text-sky-400 hover:text-sky-300">support@alsanangy.com</a>
+              <a href="mailto:moh.ali541983@gmail.com" className="text-sky-400 hover:text-sky-300">moh.ali541983@gmail.com</a>
             </div>
           </div>
           <div className="flex items-center gap-4">
@@ -30,7 +29,7 @@ export const ContactModal: React.FC<ContactModalProps> = ({ isOpen, onClose }) =
             </div>
             <div>
               <p className="font-semibold text-gray-200">الهاتف</p>
-              <a href="tel:+201234567890" className="text-sky-400 hover:text-sky-300" dir="ltr">+20 123 456 7890</a>
+              <a href="tel:01009855113" className="text-sky-400 hover:text-sky-300" dir="ltr">01009855113</a>
             </div>
           </div>
            <div className="flex items-center gap-4">
@@ -39,7 +38,7 @@ export const ContactModal: React.FC<ContactModalProps> = ({ isOpen, onClose }) =
             </div>
             <div>
               <p className="font-semibold text-gray-200">العنوان</p>
-              <p>123 شارع وهمي, القاهرة, مصر</p>
+              <p>برج الأعمال، الدور العاشر، المعادي، القاهرة</p>
             </div>
           </div>
         </div>
