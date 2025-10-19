@@ -1,4 +1,3 @@
-
 // Fix: Implementing the InvoicePreview component which was previously a placeholder file.
 import React from 'react';
 import type { Sale } from '../types';
@@ -23,8 +22,9 @@ export const InvoicePreview: React.FC<InvoicePreviewProps> = ({ sale, onClose })
             <h1 className="text-3xl font-bold text-gray-900">الأسنانجي</h1>
           </div>
           <p className="text-gray-600">شركة مستلزمات طب الأسنان</p>
-          <p className="text-gray-600">123 شارع وهمي, القاهرة, مصر</p>
-          <p className="text-gray-600">info@example.com</p>
+          <p className="text-gray-600">العنوان: مركز دير مواس، المنيا، مصر</p>
+          <p className="text-gray-600">الهاتف: 01009855113</p>
+          <p className="text-gray-600">البريد الإلكتروني: moh.ali541983@gmail.com</p>
         </div>
         <div className="text-right">
           <h2 className="text-4xl font-bold text-sky-600 tracking-wider">فاتورة</h2>

@@ -38,7 +38,7 @@ export const ContactModal: React.FC<ContactModalProps> = ({ isOpen, onClose }) =
             </div>
             <div>
               <p className="font-semibold text-gray-200">العنوان</p>
-              <p>برج الأعمال، الدور العاشر، المعادي، القاهرة</p>
+              <p>مركز دير مواس، المنيا، مصر</p>
             </div>
           </div>
         </div>
