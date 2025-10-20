@@ -1,9 +1,33 @@
-# Dependencies
+# ===== Dependencies =====
 node_modules/
-# Builds
+
+# ===== Builds =====
 dist/
-# Env
+out/
+build/
+
+# ===== Environment Files =====
 .env
-# OS junk
+.env.local
+.env.development
+.env.production
+.env.*.local
+
+# ===== Logs =====
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+vite-error.log*
+
+# ===== OS junk =====
 .DS_Store
 Thumbs.db
+
+# ===== IDEs / Editors =====
+.vscode/
+.idea/
+*.swp
+
+# ===== Misc =====
+*.log
